@@ -9,7 +9,8 @@ function App() {
   return (
     <div>
       <Header />
-      <Note />
+      <Note title="Market List" content="Buy Milk, Egg, Bread, Spoon." />
+      <Note title="Vegetable List" content="Buy Pawpaw, cabbage, carrot, spring onions." />
       <Footer />
     </div>
   );
